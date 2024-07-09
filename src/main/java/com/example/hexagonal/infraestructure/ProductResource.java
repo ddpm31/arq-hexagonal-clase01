@@ -1,7 +1,7 @@
-package com.hexagonal.infraestructure;
+package com.example.hexagonal.infraestructure;
 
 
-import com.hexagonal.application.ProductService;
+import com.example.hexagonal.application.ProductService;
 import jakarta.inject.Inject;
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;

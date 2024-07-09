@@ -1,4 +1,4 @@
-package com.hexagonal;
+package com.example.hexagonal;
 
 import io.quarkus.test.junit.QuarkusTest;
 import org.junit.jupiter.api.Test;
