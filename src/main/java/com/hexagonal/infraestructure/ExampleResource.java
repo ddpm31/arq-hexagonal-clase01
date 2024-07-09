@@ -1,4 +1,4 @@
-package com.example.hexagonal;
+package com.hexagonal.infraestructure;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
@@ -6,7 +6,7 @@ import jakarta.ws.rs.Produces;
 import jakarta.ws.rs.core.MediaType;
 
 @Path("/hello")
-public class GreetingResource {
+public class ExampleResource {
 
     @GET
     @Produces(MediaType.TEXT_PLAIN)
